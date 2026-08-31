@@ -168,94 +168,76 @@ An exploration project into greenhouse automation — environmental monitoring p
 
 ## SKILLS BY AREA
 
-<table width="100%">
-<tr>
-<td width="25%" valign="top">
+<table width="100%"> <tr> <td width="25%" valign="top">
 
-**DATA**
-- Python
-- Pandas
-- Scikit-learn
-- SQL
-- Data Analysis
+DATA
 
-</td>
-<td width="25%" valign="top">
+Python
+Pandas
+Scikit-learn
+SQL
+Data Analysis
+</td> <td width="25%" valign="top">
 
-**DEVELOPMENT**
-- JavaScript
-- TypeScript
-- PHP
-- React
-- Laravel
+DEVELOPMENT
 
-</td>
-<td width="25%" valign="top">
+JavaScript
+TypeScript
+PHP
+React
+Laravel
+</td> <td width="25%" valign="top">
 
-**SYSTEMS**
-- Next.js
-- MySQL
-- Git
-- GitHub
-- VS Code
+SYSTEMS
 
-</td>
-<td width="25%" valign="top">
+Next.js
+MySQL
+Git
+GitHub
+VS Code
+</td> <td width="25%" valign="top">
 
-**EXPLORING**
-- Machine Learning
-- IoT
-- Automation
-- System Design
-- Data Visualization
+EXPLORING
 
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:0D0000&height=4&width=100%"/>
+Machine Learning
+IoT
+Automation
+System Design
+Data Visualization
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:8B0000,100:0D0000&height=4&width=100%"/>
 
 ## LEARNING / EXPLORING / OPEN TO
+<table width="100%"> <tr> <td width="33%" valign="top">
 
-<table width="100%">
-<tr>
-<td width="33%" valign="top">
+LEARNING
 
-**LEARNING**
-- Data Science
-- Machine Learning
-- Data Analysis
-- SQL & Databases
-- System Design
-- IoT & Automation
+Data Science
+Machine Learning
+Data Analysis
+SQL & Databases
+System Design
+IoT & Automation
+</td> <td width="33%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+EXPLORING
 
-**EXPLORING**
-- Data-driven applications
-- Practical Machine Learning
-- Better software architectures
-- Automation systems
-- Open source
-- Real-world problems
+Data-driven applications
+Practical Machine Learning
+Better software architectures
+Automation systems
+Open source
+Real-world problems
+</td> <td width="33%" valign="top">
 
-</td>
-<td width="33%" valign="top">
+OPEN TO
 
-**OPEN TO**
-- Collaboration
-- Open source
-- Interesting projects
-- Tech conversations
-- Learning opportunities
-- New challenges
-
-</td>
-</tr>
-</table>
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:B22222,100:0D0000&height=4&width=100%"/>
+Collaboration
+Open source
+Interesting projects
+Tech conversations
+Learning opportunities
+New challenges
+</td> </tr> </table> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:B22222,100:0D0000&height=4&width=100%"/>
 
 ## GITHUB STATISTICS
 
