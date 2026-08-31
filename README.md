@@ -271,6 +271,8 @@ An exploration project into greenhouse automation — environmental monitoring p
 
 </div>
 
+<div align="center"> <img src="https://raw.githubusercontent.com/fransmchn/fransmchn/output/github-contribution-grid-snake-dark.svg" width="100%" alt="snake animation output — aktif setelah setup di atas selesai" /> </div> <img src="https://capsule-render.vercel.app/api?type=rect&color=0:0D0000,50:B22222,100:0D0000&height=4&width=100%"/>
+
 ## CONNECT
 
 <div align="center">
